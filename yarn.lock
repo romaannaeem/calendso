@@ -8892,6 +8892,7 @@ zen-observable@0.8.15:
   version "0.8.15"
   resolved "https://registry.yarnpkg.com/zen-observable/-/zen-observable-0.8.15.tgz#96415c512d8e3ffd920afd3889604e30b9eaac15"
 
-zod@^3.8.2:
-  version "3.9.3"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.9.3.tgz#4fbd0bcd8d7fc5b2ff93c5351284483c9eb31b9f"
+zod@^3.17.6:
+  version "3.17.6"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.17.6.tgz#09c817bff746612556f217e86b83c20ef7f20da4"
+  integrity sha512-2ercbXCQGiJa7SD2aGhaRblTxkgTEsMn2QwOzsrLWr22TgNpTl0FhWy0VLqsNyE+WlwB03YB3SYRrRzlNIDjDg==
